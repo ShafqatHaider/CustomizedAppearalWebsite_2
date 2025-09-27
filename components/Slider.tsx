@@ -3,17 +3,17 @@ import React, { useState, useEffect } from 'react';
 
 const slides = [
   {
-    image: 'https://picsum.photos/seed/fashion1/1200/500',
+    image: 'https://images.unsplash.com/photo-1687405182302-f1b28707c854?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     title: 'Effortless Style',
     subtitle: 'Discover our new collection of western wear'
   },
   {
-    image: 'https://picsum.photos/seed/fashion2/1200/500',
+    image: 'https://images.unsplash.com/photo-1643361883799-5083c75aa9dc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     title: 'Intimate Comfort',
     subtitle: 'Feel beautiful inside and out'
   },
   {
-    image: 'https://picsum.photos/seed/fashion3/1200/500',
+    image: 'https://images.unsplash.com/photo-1613264520739-c2eb038e8404?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     title: 'Commanding Presence',
     subtitle: 'Explore our range of professional costumes'
   }
